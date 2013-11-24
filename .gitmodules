@@ -1,6 +1,3 @@
-[submodule "responsive-bookmarklet"]
-    path = responsive-bookmarklet
-    url = git@github.com:lenciel/responsive-bookmarklet.git
 [submodule "bookmarklet"]
 	path = bookmarklet
 	url = /Users/lenciel/Projects/website/responsive-bookmarklet
