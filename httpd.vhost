@@ -1,6 +1,6 @@
 # apache virtual host configuration file
 # use this by creating a symbol link like below (remember to use full path):
-# ln -s /var/www/{{ project_name }}/httpd.vhost /etc/httpd/sites-enabled/app2b-v2-responsive.conf
+# ln -s /var/www/{{ project_name }}/httpd.vhost /etc/httpd/sites-enabled/responsive-toolsite.conf
 <VirtualHost *:80>
      ServerAdmin lenciel@gmail.com
      ServerName devtool.app2b.cn
